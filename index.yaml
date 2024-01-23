@@ -5,6 +5,17 @@ entries:
       catalog.cattle.io/namespace: fleet-default
       catalog.cattle.io/type: cluster-template
     apiVersion: v1
+    created: "2024-01-23T03:09:37.13486635Z"
+    description: Cluster template for rke2
+    digest: 53dce7c1239d7dcad98e27cc6d2e011bfa20540760fc03476afd012a93fd03a9
+    name: cluster-template
+    urls:
+    - https://github.com/brooksphilip/charts/releases/download/cluster-template-0.0.8/cluster-template-0.0.8.tgz
+    version: 0.0.8
+  - annotations:
+      catalog.cattle.io/namespace: fleet-default
+      catalog.cattle.io/type: cluster-template
+    apiVersion: v1
     created: "2023-08-23T20:34:29.708374856Z"
     description: Cluster template for rke2
     digest: c96caa20b5c4b6e07ba5dddd99f6faf4e6166ad4b0c8578a2a75e6981339fc5c
@@ -23,4 +34,4 @@ entries:
     urls:
     - https://github.com/brooksphilip/charts/releases/download/cluster-template-0.0.6/cluster-template-0.0.6.tgz
     version: 0.0.6
-generated: "2023-08-23T20:34:29.708383056Z"
+generated: "2024-01-23T03:09:37.134883843Z"
